@@ -1,1 +1,2 @@
-# Kagge_Spaceship_Titanic
+# Kagge Spaceship Titanic
+https://www.kaggle.com/competitions/spaceship-titanic
